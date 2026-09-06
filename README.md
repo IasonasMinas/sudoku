@@ -10,3 +10,10 @@ It runs only if the input rules apply:
 or else it returns an "Error:" message.
 
 To run it, copy the "go run" commands from the "allpossibleresults.txt" file in the Terminal.
+
+---
+
+Author: Iasonas Minas (iaminas)
+
+This is a small exercise project from the Zone01 programme, where I am currently a student. 
+The project was largely AI-assisted, with my focus on understanding, directing, and validating the implementation.
